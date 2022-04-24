@@ -1,2 +1,1 @@
-# teamodaniamormio
-ereselamor demi vida
+# declaracion
